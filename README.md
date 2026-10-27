@@ -1,52 +1,59 @@
 # Hi, I'm Akhil 👋
 
-I'm a Computer Science graduate based in the UK, with an interest in software engineering and full-stack development.
+I'm a Computer Science graduate based in the UK, currently working on improving my programming skills and building projects to gain more practical experience.
 
-I enjoy building applications that solve practical problems and learning how different technologies work together. My current focus is on Java, Spring Boot, Angular, REST APIs and relational databases.
+I'm mainly interested in software development, particularly working with Java, Spring Boot, and databases. I also enjoy working with Python and exploring how data can be used to solve problems.
 
-I'm continuing to develop my skills through hands-on projects, exploring backend development, frontend technologies and software engineering best practices.
+I use GitHub to keep track of my projects, practise what I'm learning, and document my progress along the way.
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages:** Java, Python, TypeScript, JavaScript
+**Languages:** Java, Python, JavaScript, TypeScript
 
-**Backend Development:** Spring Boot, REST APIs, JDBC, Object-Oriented Programming
+**Backend:** Spring Boot, REST APIs, JDBC
 
-**Frontend Development:** Angular, HTML, CSS
+**Frontend:** Angular, HTML, CSS
 
-**Databases:** MySQL, SQL, Relational Databases
+**Databases:** MySQL, SQL
 
 **Tools:** Git, GitHub, Maven
 
-**Other Interests:** Data Analysis, Power BI, Problem-Solving
+**Also interested in:** Data Analysis, Power BI
 
-## 🚀 Featured Project
+## 💻 Projects
 
-### NorthStar — Inventory Optimisation & Stock-Out Prevention Platform
+### NorthStar — Inventory Management
 
-A full-stack inventory management application built with Java, Spring Boot, Angular and MySQL.
+A Java project I built to practise object-oriented programming and work with inventory data.
 
-NorthStar helps businesses manage product information, track inventory, record sales and identify products that may need restocking. It also includes an interactive dashboard displaying business performance, category-level revenue and inventory risk indicators.
+The project handles product information, stock levels, sales figures, and basic inventory calculations. It also identifies products that need restocking and generates summaries such as revenue and potential profit.
 
-**Key Features:**
-- Product management through RESTful APIs
-- Stock replenishment and sales tracking
-- Inventory risk analysis and replenishment priorities
-- Interactive dashboard with business performance insights
-- MySQL database integration and persistent inventory records
+I'm planning to expand it further as I learn more about backend development and full-stack applications.
 
-**Technologies:** Java 17, Spring Boot, Angular, TypeScript, MySQL, REST APIs, Maven
+**Technologies:** Java
 
-**GitHub Repository:** [NorthStar Inventory Optimisation](https://github.com/sarikaakhilyadav/northstar-inventory-optimisation)
+[View Project](https://github.com/sarikaakhilyadav/northstar-inventory-optimisation)
 
-## 📚 What I'm Currently Learning
+### RetailPulse AI — Retail Sales Analysis & Forecasting
 
-- Improving my Java and Spring Boot development skills
-- Data Structures and Algorithms using Java
-- Building maintainable full-stack applications
-- Software architecture, testing and development best practices
+A project I'm currently working on to explore retail sales data and understand how businesses can use it to make better decisions.
 
-## 🤝 Connect With Me
+My plan is to work with Python and SQL to analyse sales trends, build dashboards in Power BI, and eventually use machine learning to forecast sales.
 
-- **LinkedIn:** [linkedin.com/in/akhil-yadav-sarika](https://www.linkedin.com/in/akhil-yadav-sarika/)
-- **GitHub:** [github.com/sarikaakhilyadav](https://github.com/sarikaakhilyadav)
+I'm building this project in stages while learning the tools involved.
+
+**Planned Technologies:** Python, SQL, Power BI, Machine Learning
+
+## 📚 Currently Learning
+
+- Java and object-oriented programming
+- Data structures and algorithms
+- Spring Boot and backend development
+- SQL and database concepts
+- Python for data analysis
+
+## 📫 Connect With Me
+
+**LinkedIn:** [linkedin.com/in/akhil-yadav-sarika](https://www.linkedin.com/in/akhil-yadav-sarika/)
+
+**GitHub:** [github.com/sarikaakhilyadav](https://github.com/sarikaakhilyadav)
